@@ -18,3 +18,5 @@ This project simulates a computational machine known as a Scramble Machine. Simi
 - SCRAMBLE_UP: Similar but reversed scramble down. Move balls up until no row above and including the lever row has more balls than the one above it.
 - RETURN_(TRUE/FALSE)_IF_MEM_(TRUE/FALSE): The program terminates only if the condition is satisfied.
 - Loop: Loops forever.
+
+The simulator comes with two programs: one that calculates if a number is even and another that calculates if a number is prime.
